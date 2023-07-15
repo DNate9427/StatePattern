@@ -1,0 +1,15 @@
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\bin\Debug\net6.0\StatePattern.GumballMachine.exe
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\bin\Debug\net6.0\StatePattern.GumballMachine.deps.json
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\bin\Debug\net6.0\StatePattern.GumballMachine.runtimeconfig.json
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\bin\Debug\net6.0\StatePattern.GumballMachine.dll
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\bin\Debug\net6.0\StatePattern.GumballMachine.pdb
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.csproj.AssemblyReference.cache
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.AssemblyInfoInputs.cache
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.AssemblyInfo.cs
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.csproj.CoreCompileInputs.cache
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.dll
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\refint\StatePattern.GumballMachine.dll
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.pdb
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\StatePattern.GumballMachine.genruntimeconfig.cache
+C:\Users\DustinNation\source\repos\StatePattern\StatePattern.GumballMachine\obj\Debug\net6.0\ref\StatePattern.GumballMachine.dll
